@@ -28,5 +28,7 @@ Output:
   <tr><td>E/D/C/F</td></tr>
 </table>
 
+You may refer to this example Excel workbook: [fn_Dependency_Chain.xlsx](fn_Dependency_Chain.xlsx)
+
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
