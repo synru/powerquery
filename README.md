@@ -1,7 +1,7 @@
 # Common Tool for Power Query
 ## fn_Dependency_Chain.pq
 ### Description
-This function generates chain of dependency as string
+This function generates dependency path for a given node by searching with given dependency information
 <br><br>Input Parameters:
 <li><code>dependencies</code> - Table with two columns <code>source_id</code> and <code>target_id</code></li>
 <li><code>separator</code> - A string to concatenate the nodes</li>
